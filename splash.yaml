@@ -1,0 +1,17 @@
+flutter_native_splash:
+  color: "#FFFFFF"         #light mode splash screen collor
+  color_dark: "#000000"    #dark mode splash screen color
+
+  # logo for showing on the splash screen
+  image: assets/logo/black_app_logo.png
+  image_dark: assets/logo/white_app_logo.png
+
+  android_12:
+    color: "#FFFFFF"         #light mode splash screen collor
+    color_dark: "#000000"    #dark mode splash screen color
+
+    # logo for showing on the splash screen
+    image: assets/logo/black_app_logo.png
+    image_dark: assets/logo/white_app_logo.png
+
+  web: false
